@@ -6,4 +6,6 @@ my third change
 
 new line
 
-changes made to check stash    
+changes made to check stash  
+
+new change fm remote repo 
