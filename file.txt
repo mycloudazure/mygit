@@ -8,4 +8,7 @@ new line
 
 changes made to check stash  
 
-new change fm remote repo 
+new change fm remote repo
+
+
+Besnat local repo 
