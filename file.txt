@@ -12,3 +12,5 @@ new change fm remote repo
 
 
 Besnat local repo 
+
+change from local for conflict 
